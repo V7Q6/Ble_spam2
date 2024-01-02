@@ -5,12 +5,12 @@
 // Documentation at https://learn.microsoft.com/en-us/windows-hardware/design/component-guidelines/bluetooth-swift-pair
 
 static const char* names[] = {
-    "Assquach💦",
-    "Flipper 🐬",
-    "iOS 17 🍎",
-    "Kink💦",
-    "👉👌",
-    "🔵🦷",
+    "I love you",
+    "Qassim university is the best",
+    "amogus",
+    "anemi is for kids",
+    "😎🫠😎",
+    "@#$(*&^\\^$$#)",
 };
 static const uint8_t names_count = COUNT_OF(names);
 
